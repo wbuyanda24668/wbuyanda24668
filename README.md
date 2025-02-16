@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm wbuyanda24668
 
-<!--
-**wbuyanda24668/wbuyanda24668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎽 🏸 🏑 🏊 Building the future with agile methodology 🎽 🏸 🏑 🏊
 
-Here are some ideas to get you started:
+## About Me
+🛶 🎣 Building the future with algorithms 🛶 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎰 🎮 🎰 A beginner in project management 🎰 🎮 🎰
+
+### Fun Facts
+🎾 🎯 A passionate developer who loves tech communities 🎾 🎯
+
+---
+📚 🏒 🎮 🎪 🏏 Thanks for visiting my profile! 🛼 🎰 🚴 🏒 🚴
